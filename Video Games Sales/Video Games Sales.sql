@@ -1,4 +1,4 @@
--- select all data related to specific publisher, filtered and ordered by year 
+-- select all data related to a specific publisher and filtered, ordered by year 
 
 select *
 from vgdata
