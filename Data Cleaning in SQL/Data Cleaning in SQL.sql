@@ -43,7 +43,7 @@ Where a.PropertyAddress is null
 
 
 
--- Breaking out Address into Individual Columns (Address, City, State)
+-- Breaking out Address column into Individual Columns (Address, City, State)
 
 
 Select PropertyAddress
